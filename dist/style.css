@@ -632,6 +632,58 @@ video {
   top: 0.5rem;
 }
 
+.bottom-\[890px\]{
+  bottom: 890px;
+}
+
+.bottom-\[850px\]{
+  bottom: 850px;
+}
+
+.bottom-\[830px\]{
+  bottom: 830px;
+}
+
+.bottom-\[80px\]{
+  bottom: 80px;
+}
+
+.bottom-\[800px\]{
+  bottom: 800px;
+}
+
+.bottom-\[810px\]{
+  bottom: 810px;
+}
+
+.bottom-\[990px\]{
+  bottom: 990px;
+}
+
+.bottom-\[10px\]{
+  bottom: 10px;
+}
+
+.bottom-\[110px\]{
+  bottom: 110px;
+}
+
+.bottom-\[1020px\]{
+  bottom: 1020px;
+}
+
+.bottom-\[1040px\]{
+  bottom: 1040px;
+}
+
+.bottom-\[1060px\]{
+  bottom: 1060px;
+}
+
+.bottom-\[1055px\]{
+  bottom: 1055px;
+}
+
 .flex{
   display: flex;
 }
@@ -654,6 +706,18 @@ video {
 
 .h-\[600px\]{
   height: 600px;
+}
+
+.h-\[60px\]{
+  height: 60px;
+}
+
+.h-\[620px\]{
+  height: 620px;
+}
+
+.h-\[622px\]{
+  height: 622px;
 }
 
 .w-36{
@@ -726,6 +790,30 @@ video {
 
 .w-\[550px\]{
   width: 550px;
+}
+
+.w-\[530px\]{
+  width: 530px;
+}
+
+.w-\[50px\]{
+  width: 50px;
+}
+
+.w-\[510px\]{
+  width: 510px;
+}
+
+.w-\[420px\]{
+  width: 420px;
+}
+
+.w-\[480px\]{
+  width: 480px;
+}
+
+.w-\[490px\]{
+  width: 490px;
 }
 
 .items-center{
@@ -836,8 +924,62 @@ video {
   padding-right: 3.5rem;
 }
 
+.py-20{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.py-24{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.py-\[\]{
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.py-\[85px\]{
+  padding-top: 85px;
+  padding-bottom: 85px;
+}
+
+.py-\[8px\]{
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.py-\[89px\]{
+  padding-top: 89px;
+  padding-bottom: 89px;
+}
+
+.py-\[88px\]{
+  padding-top: 88px;
+  padding-bottom: 88px;
+}
+
+.py-\[60px\]{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.py-\[00px\]{
+  padding-top: 00px;
+  padding-bottom: 00px;
+}
+
+.py-\[100px\]{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
 .text-center{
   text-align: center;
+}
+
+.font-custom{
+  font-family: Anton, Open Sans, sans-serif;
 }
 
 .text-2xl{
@@ -872,6 +1014,10 @@ video {
 
 .text-\[58px\]{
   font-size: 58px;
+}
+
+.text-\[24px\]{
+  font-size: 24px;
 }
 
 .font-medium{
